@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+- [GonzoProxy](https://gonzoproxy.com/?utm_source=github) - P2P residential proxy network with non-expiring traffic, 20M+ real-device IPs, and free city/ISP geotargeting for web scraping and automation.
+  - **Tags**: `Proxy` `Automation` `Web Scraping` `Multi-Accounting`
+  - **Pricing**: Paid, Pay-as-you-go, Bulk discounts, Unlimited Mobile plans
+  - **Contact**: [https://t.me/GonzoProxy_bot](https://t.me/GonzoProxy_bot)
  
   
   
